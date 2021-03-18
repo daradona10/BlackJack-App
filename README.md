@@ -12,3 +12,6 @@ This is a few examples of using JavaScript to develop:
 
 5. A Black Jack game using the hit, stand and deal button with some sounds and score keeping
 
+
+SITE CAN BE ACCESSED HERE : https://daradona10.github.io/BlackJack-App/
+
